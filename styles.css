@@ -111,7 +111,7 @@ h2 {
     overflow: hidden;
     border-radius: 10px;
     margin-bottom: 15px;
-    height: 200px;
+    /* height: 200px; */
 }
 
 .carousel img {
